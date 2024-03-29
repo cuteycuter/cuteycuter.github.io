@@ -1,0 +1,10 @@
+body { 
+  text-align: center; 
+  font-family: Comic Sans MS;
+  background-color: #FAC1D9;
+  color: hotpink;
+}
+
+img:hover {
+    cursor: pointer;
+}
